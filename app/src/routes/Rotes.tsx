@@ -17,7 +17,7 @@ export default function Rotas(): any {
 {/*<Route  path='/main_window' element={<Loginps/>}/>*/}
 {/* <Route  path='/main_window' element={<Login/>}/> */}
 {/* <Route  path='/main_window' element={<Perfil_Potinho/>}/> */}
-<Route  path='/main_window' element={<Perfil_Mood/>}/> 
+<Route  path='/main_window' element={<Home/>}/> 
       </Routes>
     </>
 
